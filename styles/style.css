@@ -1,0 +1,23 @@
+html {
+    font-size: 26px;
+    font-family: "Noto Sans Korean";
+
+    background-color: #aaafb3;
+}
+
+body {
+    width: 1200px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 0 20px 20px 20px;
+    border: 5px solid #ffffff;
+}
+
+h1,
+h2 {
+    margin: 0;
+    padding: 20px 0;
+    color: #000000;
+    text-shadow: 3px 2px 1px rgb(144, 148, 161);
+    text-align: center;
+}   
