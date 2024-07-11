@@ -11,9 +11,9 @@ selecImage.onclick = function () {
     let sImgSrc = selecImage.getAttribute("src");
 
     if (sImgSrc === "../images/one.png") {
-        selecImage.setAttribute("src", "../images/two.png");
+        selecImage.setAttribute("src", "images/two.png");
     } else {
-        selecImage.setAttribute("src", "../images/one.png");
+        selecImage.setAttribute("src", "images/one.png");
     }
 }
 
